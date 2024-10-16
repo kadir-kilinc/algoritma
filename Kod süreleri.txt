@@ -1,0 +1,8 @@
+C++ 0.214sn 
+C 0.016sn 
+C# 0.018 
+Java 0.016sn 
+JS.    . 016sn 
+Perl.      0.000
+Rubby  .016sn 
+Pyhthon 0.00
